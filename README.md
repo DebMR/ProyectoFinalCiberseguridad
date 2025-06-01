@@ -1,7 +1,7 @@
 ﻿# Proyecto Final Ciberseguridad
 🛡️ Proyecto Final de Ciberseguridad - 4Geeks Academy
 
-Descripción
+Descripción:
 
 Este proyecto simula un escenario del mundo real en el que una organización ha sufrido un compromiso de seguridad. Como analista de ciberseguridad, tu responsabilidad es restaurar, proteger y documentar un servidor crítico comprometido. La máquina proporcionada simula un entorno Debian real y presenta diversas vulnerabilidades que deben ser detectadas, explotadas de forma controlada, corregidas y documentadas adecuadamente.
 
