@@ -5,14 +5,16 @@ Este proyecto simula un escenario del mundo real en el que una organización ha 
 
 El proyecto está dividido en tres fases:
 
-Corrección de un hackeo existente (análisis forense)
+1. Corrección de un hackeo existente (análisis forense)
 
-Detección y explotación controlada de una nueva vulnerabilidad
+2. Detección y explotación controlada de una nueva vulnerabilidad
 
-Diseño de un plan de respuesta ante incidentes y un SGSI según ISO 27001
+3. Diseño de un plan de respuesta ante incidentes y un SGSI según ISO 27001
 
 🧩 Fases del Proyecto
+
 🔍 Fase 1: Corrección de un Hackeo
+
 Objetivo: Analizar el incidente, identificar el vector de ataque, bloquear el exploit y restablecer la seguridad del servidor.
 
 Tareas realizadas:
@@ -30,6 +32,7 @@ Refuerzo de configuraciones (cambios en firewall, eliminación de puertos abiert
 Redacción de un informe forense detallado
 
 🕵️‍♂️ Fase 2: Detección y Corrección de una Nueva Vulnerabilidad
+
 Objetivo: Identificar una vulnerabilidad no relacionada con el ataque anterior, explotarla de manera controlada, y corregirla.
 
 Tareas realizadas:
@@ -45,6 +48,7 @@ Aplicación de medidas correctivas
 Redacción de un informe de pentesting
 
 📋 Fase 3: Plan de Respuesta a Incidentes y SGSI
+
 Objetivo: Crear un plan completo de respuesta a incidentes conforme a las mejores prácticas del NIST y diseñar un SGSI alineado con la norma ISO 27001.
 
 Componentes entregados:
@@ -70,6 +74,7 @@ Controles de acceso estrictos
 Presentación ejecutiva para la gerencia
 
 📄 Entregables Incluidos
+
 📘 Informe de Análisis Forense
 
 🧪 Informe de Pentesting
@@ -81,6 +86,7 @@ Presentación ejecutiva para la gerencia
 📊 Presentación ejecutiva (PDF/PPT)
 
 🧰 Herramientas y Tecnologías Utilizadas
+
 grep, awk, journalctl, logwatch – para análisis de logs
 
 chkrootkit, rkhunter, lynis – para escaneo de malware y rootkits
